@@ -1,8 +1,8 @@
 # docker-sample-app
 This is the assignment to Deploy a Sample Web Application Using Docker Containers
 
-Author: Rajendra Panda
-Roll No: G23AI2030
+Author Name: Rajendra Panda
+Author IIT Jodhpur Roll No: G23AI2030
 
 Step 1: Create a Simple Application
 
